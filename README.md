@@ -1,18 +1,7 @@
-<div align="center">
-  <p><a href="https://ohmysmtp.com" target="_blank"><img src="https://docs.ohmysmtp.com/img/logo.png" width="200" alt="OhMySMTP Logo"></a></p>
-  <p>A set of gorgeous Transactional HTML Email Templates built on TailwindCSS</p>
-  <div>
-
-  [![License][license-shield]][license]
-
-  </div>
-</div>
-
 ## About
 
 This is a collection of gorgeous HTML transactional email templates, built using [Maizzle](https://maizzle.com/) and [Tailwind CSS](https://tailwindcss.com/).
 
-They are completely free and you can use them anywhere you like, although of course we recommend using our very own transactional email provider, [OhMySMTP](https://ohmysmtp.com)
 
 And yes, they support Dark Mode out of the box :)
 
@@ -20,12 +9,12 @@ And yes, they support Dark Mode out of the box :)
 
 ## Show me the templates!
 
-- **Welcome** Send a welcome email to users with a call to action [Live Preview](https://htmlpreview.github.io/?https://github.com/ohmysmtp/templates/blob/main/dist/welcome.html)
-- **Email Confirmation** Confirm a new email address [Live Preview](https://htmlpreview.github.io/?https://github.com/ohmysmtp/templates/blob/main/dist/confirmation.html)
-- **Password Reset** Reset a user's password [Live Preview](https://htmlpreview.github.io/?https://github.com/ohmysmtp/templates/blob/main/dist/password_reset.html)
-- **Receipt** Example product receipt email [Live Preview](https://htmlpreview.github.io/?https://github.com/ohmysmtp/templates/blob/main/dist/receipt.html)
-- **Security Alert** Example security alert email [Live Preview](https://htmlpreview.github.io/?https://github.com/ohmysmtp/templates/blob/main/dist/security_alert.html)
-- **Account Deleted** Notify a user on account deletion [Live Preview](https://htmlpreview.github.io/?https://github.com/ohmysmtp/templates/blob/main/dist/account_deleted.html)
+- **Welcome** Send a welcome email to users with a call to action [Live Preview](welcome.html)
+- **Email Confirmation** Confirm a new email address [Live Preview](confirmation.html)
+- **Password Reset** Reset a user's password [Live Preview](password_reset.html)
+- **Receipt** Example product receipt email [Live Preview](receipt.html)
+- **Security Alert** Example security alert email [Live Preview](security_alert.html)
+- **Account Deleted** Notify a user on account deletion [Live Preview](account_deleted.html)
 
 ## Using the Templates
 
@@ -70,11 +59,8 @@ Maizzle documentation is available at https://maizzle.com
 
 ## Issues, Fixes & PRs
 
-If you find any issues please open a PR here, or contact support@ohmysmtp.com. If you find the templates useful, please contribute back with more templates.
+If you find any issues please open a PR. If you find the templates useful, please contribute back with more templates.
 
-## Want to send transactional emails through an Independent 💪, privacy-focused 🕵️ and eco-friendly 🌱 provider?
-
-Sign up for an account at [OhMySMTP](https://ohmysmtp.com)
 
 ## License
 

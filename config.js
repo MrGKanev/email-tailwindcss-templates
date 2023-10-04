@@ -22,5 +22,5 @@ module.exports = {
       },
     },
   },
-  baseImageURL: 'https://docs.ohmysmtp.com/img/'
+  baseImageURL: 'https://github.com/MrGKanev/email-tailwindcss-templates'
 }
