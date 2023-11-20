@@ -49,7 +49,7 @@ While you can modify templates in the `dist/` folder directly, it's not recommen
 5. Build for Production
 
    ```sh
-   maizzle build production
+   maizzle build prod
    ```
    Your modified templates will be available in `./dist/`
 
@@ -65,12 +65,3 @@ If you find any issues please open a PR. If you find the templates useful, pleas
 ## License
 
 This code is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-[npm]: https://www.npmjs.com/package/ohmysmtp/templates
-[npm-stats]: https://npm-stat.com/charts.html?package=%40ohmysmtp%2Ftemplates&from=2019-03-27
-[npm-version-shield]: https://img.shields.io/npm/v/ohmysmtp/templates.svg?style=flat-square
-[npm-stats-shield]: https://img.shields.io/npm/dt/ohmysmtp/templates.svg?style=flat-square&color=6875f5
-[github-ci]: https://github.com/ohmysmtp/templates/actions
-[github-ci-shield]: https://img.shields.io/github/workflow/status/ohmysmtp/cli/Node.js%20CI?style=flat-square
-[license]: ./LICENSE
-[license-shield]: https://img.shields.io/npm/l/ohmysmtp/templates.svg?style=flat-square&color=0e9f6e
