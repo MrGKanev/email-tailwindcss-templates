@@ -39,7 +39,7 @@ While you can modify templates in the `dist/` folder directly, it's not recommen
 3. Start Development
 
    ```sh
-   maizzle serve
+   npm run dev
    ```
 
 4. Modify the templates
@@ -49,7 +49,7 @@ While you can modify templates in the `dist/` folder directly, it's not recommen
 5. Build for Production
 
    ```sh
-   maizzle build prod
+   npm run prod
    ```
    Your modified templates will be available in `./dist/`
 
