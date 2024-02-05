@@ -1,9 +1,7 @@
 ## About
 
 This is a collection of gorgeous HTML transactional email templates, built using [Maizzle](https://maizzle.com/) and [Tailwind CSS](https://tailwindcss.com/).
-
-
-And yes, they support Dark Mode out of the box :)
+They support Dark Mode out of the box.
 
 ![Screenshot of HTML transactional emails](screenshot.png)
 
@@ -51,16 +49,16 @@ While you can modify templates in the `dist/` folder directly, it's not recommen
    ```sh
    npm run prod
    ```
+
    Your modified templates will be available in `./dist/`
 
 ## More Documentation
 
-Maizzle documentation is available at https://maizzle.com
+Maizzle documentation is available at <https://maizzle.com>
 
 ## Issues, Fixes & PRs
 
 If you find any issues please open a PR. If you find the templates useful, please contribute back with more templates.
-
 
 ## License
 
